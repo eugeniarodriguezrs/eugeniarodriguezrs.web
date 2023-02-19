@@ -19,12 +19,18 @@ footer {
 
 
 
-main {
-    background-color: rgb(245, 239, 239);
-    font-family: Arial, sans-serif;
-
-
+main.restaurante {
+    font-size: larger;
+    margin-right: 10%;
+    margin-left: 10%;
 }
+
+main.hoteles{
+    font-size: larger;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
 
 
 
